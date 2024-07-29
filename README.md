@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @4702chahat
 - 👀 I’m interested in ...coding,learning new things
-- 🌱 I’m currently learning ...Java also i have basic knowledge of c/c++, python
+- 🌱 I’m currently learning ...Java , c/c++, python
 - 💞️ I’m looking to collaborate on Machine Learning Projects, web development projects
 - 📫 How to reach me ...on LinkedIn : https://www.linkedin.com/in/chahat-ahuja-76219220b
 
