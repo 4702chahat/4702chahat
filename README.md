@@ -2,7 +2,7 @@
 <h3 align="center">💻 Software Engineer | 🌸 Creative Coder | 💡 Problem Solver</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" width="250" alt="Image" />
+  <img src="https://media.giphy.com/media/g9582DNuQppxC/giphy.gif" width="250" alt="Image" />
 </p>
 
 ---
