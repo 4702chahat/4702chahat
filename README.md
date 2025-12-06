@@ -18,8 +18,7 @@
 
 📬 Let’s connect:
 - 📧 **Email**: ahujachahat47@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/chahat-ahuja/) *(add your real link)*
-- 🗂️ [My Portfolio](https://your-portfolio-link.vercel.app) *(optional)*
+- 🔗 [LinkedIn](https://www.linkedin.com/in/chahat-ahuja/) 
 
 ---
 
