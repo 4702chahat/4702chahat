@@ -18,7 +18,7 @@
 
 📬 Let’s connect:
 - 📧 **Email**: ahujachahat47@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/chahat-ahuja/) 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/chahat47/) 
 
 ---
 
